@@ -1,6 +1,7 @@
 # **PROBELM STATEMENT**
 
-Topic Modeling for Research Articles
+## Topic Modeling for Research Articles
+https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#About
 
 Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.
 Given the abstract and title for a set of research articles, predict the topics for each article included in the test set. 
@@ -29,3 +30,8 @@ Please ensure that your final submission includes the following:
 
 **Solution file containing the predicted 1/0 for each of the 6 topics for every research article in the test set**
 Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submissi
+
+
+# **COMPETITION RESULT**
+## **17TH RANK AMONG 17000 PARTICIPANTS BY ACHIEVING A SCORE OF 0.8440488451**
+
