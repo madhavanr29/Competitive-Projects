@@ -3,6 +3,8 @@
 ## Topic Modeling for Research Articles
 https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#About
 
+https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#LeaderBoard
+
 Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more difficult. Tagging or topic modelling provides a way to give token of identification to research articles which facilitates recommendation and search process.
 Given the abstract and title for a set of research articles, predict the topics for each article included in the test set. 
 
